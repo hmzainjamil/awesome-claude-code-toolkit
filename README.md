@@ -1,11 +1,22 @@
 # Claude Code Toolkit
 
+> **The ultimate Claude Code arsenal** — 135 agents, 400K+ skills, 176+ plugins, hooks, MCP configs, and the full ecosystem in one repo
+
+
 **The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.**
 
+<p align="center">
+  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/stargazers"><img src="https://img.shields.io/github/stars/hmzainjamil/awesome-claude-code-toolkit?style=for-the-badge&labelColor=555&color=white" alt="Stars"></a>
+  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/network/members"><img src="https://img.shields.io/github/forks/hmzainjamil/awesome-claude-code-toolkit?style=for-the-badge&labelColor=555&color=white" alt="Forks"></a>
+  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/issues"><img src="https://img.shields.io/github/issues/hmzainjamil/awesome-claude-code-toolkit?style=for-the-badge&labelColor=555&color=white" alt="Issues"></a>
+  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/pulls"><img src="https://img.shields.io/github/issues-pr/hmzainjamil/awesome-claude-code-toolkit?style=for-the-badge&labelColor=555&color=white" alt="PRs"></a>
+  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/commits"><img src="https://img.shields.io/github/last-commit/hmzainjamil/awesome-claude-code-toolkit?style=for-the-badge&labelColor=555&color=white" alt="Last Commit"></a>
+</p>
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-orange.svg)](#)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge&labelColor=555)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&labelColor=555)](CONTRIBUTING.md)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-orange.svg?style=for-the-badge&labelColor=555)](#)
 [![Files](https://img.shields.io/badge/Files-850+-blueviolet.svg)](#project-structure)
 
 <a href="https://star-history.com/#rohitg00/awesome-claude-code-toolkit&Date">
@@ -1066,3 +1077,26 @@ Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 [Apache-2.0](LICENSE)
 | [AutoSearch](https://github.com/0xmariowu/Autosearch) | new | Self-evolving deep research plugin for Claude Code -- 32 dedicated search channels (arXiv, GitHub, Reddit, HN, zhihu, bilibili, CSDN + 25 more), LLM-scored evaluation, cited reports in Markdown/HTML/Slides, cross-session learning. Zero API keys required |
+
+---
+
+## ☠️ STARTUPS / BUSINESSES
+
+What teams build with this toolkit:
+
+| Stack | Use Case | Output |
+|-------|----------|--------|
+| **AI-native dev agencies** | 135 agents + 42 commands = automated sprint delivery | Client deliverables without full-time devs |
+| **SaaS product teams** | Hook system + GitHub Actions → auto PR review, deploy gates | Shift-left QA with zero tooling cost |
+| **Enterprise IT** | 14 MCP configs + 176 plugins → internal toolchain integration | Claude-powered developer portals |
+| **Indie hackers** | 400K+ skills via SkillKit → unlimited capability surface | Build $10K/mo SaaS with one-person team |
+| **Consultancies** | Commands + rules → reusable client delivery templates | Standardize output across engagements |
+| **DevRel teams** | Companion apps + ecosystem entries → developer advocacy tooling | Tutorials, demos, and blog posts on autopilot |
+| **Security teams** | Hooks + permission system → code audit and access control | Automated compliance gates in CI |
+| **Startup studios** | Full stack: agents + skills + MCP → parallel product lines | Run 5 products with 2 engineers |
+
+> 850+ files. Plugin marketplace installable. Works on any OS.
+
+---
+
+Built by [HMZ](https://github.com/hmzainjamil)
