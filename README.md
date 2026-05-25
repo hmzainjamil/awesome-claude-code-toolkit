@@ -6,17 +6,17 @@
 **The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.**
 
 <p align="center">
-  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/stargazers"><img src="https://img.shields.io/github/stars/hmzainjamil/awesome-claude-code-toolkit?style=for-the-badge&labelColor=555&color=white" alt="Stars"></a>
-  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/network/members"><img src="https://img.shields.io/github/forks/hmzainjamil/awesome-claude-code-toolkit?style=for-the-badge&labelColor=555&color=white" alt="Forks"></a>
-  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/issues"><img src="https://img.shields.io/github/issues/hmzainjamil/awesome-claude-code-toolkit?style=for-the-badge&labelColor=555&color=white" alt="Issues"></a>
-  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/pulls"><img src="https://img.shields.io/github/issues-pr/hmzainjamil/awesome-claude-code-toolkit?style=for-the-badge&labelColor=555&color=white" alt="PRs"></a>
-  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/commits"><img src="https://img.shields.io/github/last-commit/hmzainjamil/awesome-claude-code-toolkit?style=for-the-badge&labelColor=555&color=white" alt="Last Commit"></a>
+  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/stargazers"><img src="https://img.shields.io/github/stars/hmzainjamil/awesome-claude-code-toolkit?style=flat&labelColor=555&color=white" alt="Stars"></a>
+  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/network/members"><img src="https://img.shields.io/github/forks/hmzainjamil/awesome-claude-code-toolkit?style=flat&labelColor=555&color=white" alt="Forks"></a>
+  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/issues"><img src="https://img.shields.io/github/issues/hmzainjamil/awesome-claude-code-toolkit?style=flat&labelColor=555&color=white" alt="Issues"></a>
+  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/pulls"><img src="https://img.shields.io/github/issues-pr/hmzainjamil/awesome-claude-code-toolkit?style=flat&labelColor=555&color=white" alt="PRs"></a>
+  <a href="https://github.com/hmzainjamil/awesome-claude-code-toolkit/commits"><img src="https://img.shields.io/github/last-commit/hmzainjamil/awesome-claude-code-toolkit?style=flat&labelColor=555&color=white" alt="Last Commit"></a>
 </p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge&labelColor=555)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&labelColor=555)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-orange.svg?style=for-the-badge&labelColor=555)](#)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat&labelColor=555)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&labelColor=555)](CONTRIBUTING.md)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-orange.svg?style=flat&labelColor=555)](#)
 [![Files](https://img.shields.io/badge/Files-850+-blueviolet.svg)](#project-structure)
 
 <a href="https://star-history.com/#rohitg00/awesome-claude-code-toolkit&Date">
@@ -28,6 +28,58 @@
 </a>
 
 ---
+
+
+---
+
+## CONCEPTS
+
+| Concept | Description |
+|---|---|
+| **Toolkit** | Core concept — primary building block of awesome claude code toolkit |
+| **Claude** | Execution primitive handling claude operations |
+| **Code** | Integration layer for code connectivity |
+| **Tools** | Configuration and routing for tools behavior |
+| **Claude Code** | Anthropic CLI — agentic coding and task execution |
+| **MCP** | Model Context Protocol — tool exposure standard |
+| **Skill** | Self-contained Claude Code capability module |
+| **Tier-0** | Free model routing: Groq → Ollama → DeepSeek |
+| **Context Window** | Token budget per session — managed via compression |
+| **Async Agent** | Background task agent — non-blocking parallel execution |
+
+---
+
+## 🔥 Hot Commands
+
+```bash
+# Clone and explore
+gh repo clone hmzainjamil/awesome-claude-code-toolkit
+cd awesome-claude-code-toolkit
+
+# Load as Claude Code skill
+cp -r . ~/.claude/skills/awesome-claude-code-toolkit/
+
+# Run via MAE pipeline
+mae run "awesome claude code toolkit - primary workflow"
+
+# Quick invoke via Claude
+claude -p "using toolkit capabilities: run main workflow"
+```
+
+## ■ tip
+> **Route sub-tasks to Tier-0 first** (Groq/Ollama) — saves Claude quota for synthesis only. Use `mae run` to auto-decompose complex tasks.
+
+---
+
+## ☠️ STARTUPS / BUSINESSES
+
+- **Digital agencies** — deploy as client delivery multiplier, 10× throughput
+- **SaaS founders** — integrate into existing Claude Code stack, zero infra overhead
+- **AI engineers** — fork and extend with custom domain logic
+- **Freelancers** — use as billable-hours accelerator for toolkit + claude work
+
+---
+
 
 ## Quick Install
 
